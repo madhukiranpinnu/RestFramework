@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="26a4b28d-28dc-41ca-8604-674df83167e5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="AnnotationType" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EMM4Ji1c8Acy61yvdKwnbhu42b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/madhu/RestFramework/Alltest.xml">
+    <configuration name="Assignment_1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.madhu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.madhu" />
+      <option name="MAIN_CLASS_NAME" value="com.madhu.Assignment_1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment_1.T1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.madhu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.madhu" />
+      <option name="MAIN_CLASS_NAME" value="com.madhu.Assignment_1" />
+      <option name="METHOD_NAME" value="T1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment_1.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestFramework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.madhu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.madhu" />
+      <option name="MAIN_CLASS_NAME" value="com.madhu.Assignment_1" />
+      <option name="METHOD_NAME" value="Test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/madhu/RestFramework/Alltest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Alltest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/madhu/RestFramework/Assignment.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="RestFramework" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Assignment.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/madhu/RestFramework/Alltest.xml" />
+        <item itemvalue="TestNG.C:/Users/madhu/RestFramework/Assignment.xml" />
+        <item itemvalue="TestNG.Assignment_1" />
+        <item itemvalue="TestNG.Assignment_1.Test1" />
+        <item itemvalue="TestNG.Assignment_1.T1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26a4b28d-28dc-41ca-8604-674df83167e5" name="Changes" comment="" />
+      <created>1662400808526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662400808526</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

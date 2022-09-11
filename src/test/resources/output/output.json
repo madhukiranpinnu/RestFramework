@@ -1,0 +1,18 @@
+{
+    "id": "16863",
+    "first_name": "bao",
+    "last_name": "ROWE",
+    "email": "sherrilKOELPIN@gmail.com",
+    "jobs": [
+        "tester",
+        "shopkeeper"
+    ],
+    "food": {
+        "breakfast": "idly",
+        "lunch": "rice",
+        "dinner": [
+            "tester",
+            "shopkeeper"
+        ]
+    }
+}

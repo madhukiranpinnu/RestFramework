@@ -1,0 +1,18 @@
+{
+    "id": "12994",
+    "first_name": "chun",
+    "last_name": "TORP",
+    "email": "donnyWILL@gmail.com",
+    "jobs": [
+        "tester",
+        "shopkeeper"
+    ],
+    "food": {
+        "breakfast": "idly",
+        "lunch": "rice",
+        "dinner": [
+            "tester",
+            "shopkeeper"
+        ]
+    }
+}

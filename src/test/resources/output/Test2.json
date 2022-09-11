@@ -1,0 +1,18 @@
+{
+    "id": "11289",
+    "first_name": "granville",
+    "last_name": "LEHNER",
+    "email": "camelliaO'CONNELL@gmail.com",
+    "jobs": [
+        "tester",
+        "shopkeeper"
+    ],
+    "food": {
+        "breakfast": "idly",
+        "lunch": "rice",
+        "dinner": [
+            "tester",
+            "shopkeeper"
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+{
+  "id": "roll_Number",
+  "first_name": "fname",
+  "last_name": "lname",
+  "email": "email_Student",
+  "jobs": [
+    "tester",
+    "shopkeeper"
+  ],
+  "food": {
+    "breakfast": "idly",
+    "lunch": "rice",
+    "dinner": [
+      "tester",
+      "shopkeeper"
+    ]
+  }
+}

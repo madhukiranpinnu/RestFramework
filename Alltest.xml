@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="Listeners.ListenerClass"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/madhu/RestFramework">
+        <classes>
+            <class name="com.madhu.Assignment_1">
+                <methods>
+                    <include name="Test1"/>
+                    <include name="Test2"/>
+                    <include name="Test3"/>
+                    <include name="Test5"/>
+                </methods>
+            </class>
+            <class name="com.madhu.GetTests">
+                <methods>
+                    <include name="Test1"/>
+                    <include name="Test2"/>
+                    <include name="Test3"/>
+                </methods>
+            </class>
+            <class name="com.madhu.PostTests">
+                <methods>
+                    <include name="Test1"/>
+                    <include name="Test2"/>
+                    <include name="Test3"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
